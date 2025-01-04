@@ -2,7 +2,7 @@ rule mal_ransomware_ransomhub_note
 {
     meta:
         author = "manb4t"
-        100_days_of_YARA_2025 = "Day 1"
+        date = "01/10/2024" //UK Date Format
         ref = "https://github.com/m4nbat/100_days_of_yara_2025/tree/main"
         description = "string based detection for ransomhub ransomware note"
         note1_sha256 = "2b8e5ad115ebce0a9e65d734a2d198a49d2f3529eb68c65658a814b2a1ddbfa2"
